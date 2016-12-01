@@ -50,7 +50,7 @@ CICD (Continuous Integration Continuous Deliver) Tool is a quick and simple tool
   
 * Client Environment
   * Windows PowerShell 3.0+
-  * Internet Connectivity to refernece environment and target environment.
+  * Internet Connectivity to reference environment and target environment.
   
 ###CICD Tool
 
@@ -61,7 +61,7 @@ CICD (Continuous Integration Continuous Deliver) Tool is a quick and simple tool
 
 * Client Environment
   * Windows PowerShell 3.0+
-  * Latest Azure PowerShell Recommended
+  * Latest Azure PowerShell recommended
   * Internet Connectivity to source environment and destination environment.
 
 ## Installation
@@ -77,7 +77,7 @@ You can also find all the previous releases in [Azure Global Connection Toolkit 
 
 ###Assessment Tool
 
-After installation, run cmdlet in your PoowerSehll.
+After installation, run cmdlet in your PowerShell.
 
 ```powershell
 New-AzureRmMigrationReport
